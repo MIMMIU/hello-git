@@ -11,7 +11,10 @@ public class ABCD {
 	}
 	
 	public ABCD() {
-		// TODO Auto-generated constructor stub
+		
+		System.out.println("   #   feature 가 최고얌 !!!!   ");
+		
+		
 	}
 
 }
