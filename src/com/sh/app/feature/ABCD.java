@@ -1,5 +1,7 @@
 package com.sh.app.feature;
 
+
+// 이건 ㅍㅟ 쳐에서 쓴 ABCD주석입니다.
 public class ABCD {
 	
 	private void syso() {
