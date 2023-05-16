@@ -1,5 +1,6 @@
 package com.sh.app.feature;
 
+// 이거쓴.. master 에서 쓴 ABCD 의 주석 임네다 
 public class ABCD {
 	
 	private void syso() {
